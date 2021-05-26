@@ -1,2 +1,2 @@
-# xSwap-periphery
+# xPlanet-periphery
 xPlanet xSwap
